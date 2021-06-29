@@ -1,7 +1,7 @@
-﻿using Avanade.Sub.TCSE.Projeto.Application.Dtos.EmployeeRole;
+﻿using Avanade.SubTCSE.Projeto.Application.Dtos.EmployeeRole;
 using System.Threading.Tasks;
 
-namespace Avanade.Sub.TCSE.Projeto.Application.Interfaces.EmployeeRole
+namespace Avanade.SubTCSE.Projeto.Application.Interfaces.EmployeeRole
 {
     public interface IEmployeeRoleAppService
     {

@@ -1,7 +1,8 @@
-﻿using Avanade.Sub.TCSE.Projeto.Application.Dtos.Base;
+﻿using Avanade.SubTCSE.Projeto.Application.Dtos.Base;
+using Avanade.SubTCSE.Projeto.Application.Dtos.EmployeeRole;
 using System;
 
-namespace Avanade.Sub.TCSE.Projeto.Application.Dtos.Employee
+namespace Avanade.SubTCSE.Projeto.Application.Dtos.Employee
 {
     public class EmployeeDto : BaseDto
     {
@@ -15,6 +16,6 @@ namespace Avanade.Sub.TCSE.Projeto.Application.Dtos.Employee
 
         public decimal Salario { get; set; }
 
-        public EmployeeRole.EmployeeRoleDto Cargo { get; set; }
+        public EmployeeRoleDto Cargo { get; set; }
     }
 }

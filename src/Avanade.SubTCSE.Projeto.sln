@@ -19,13 +19,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1-CrossCutting", "3.1-Cro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2-Data", "3.2-Data", "{3DB836A7-CE2B-4303-940A-CAA269264B78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.Sub.TCSE.Projeto.Application", "Avanade.Sub.TCSE.Projeto.Application\Avanade.Sub.TCSE.Projeto.Application.csproj", "{0A497912-D9F4-4C92-9E85-222A55A00A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avanade.SubTCSE.Projeto.Application", "Avanade.Sub.TCSE.Projeto.Application\Avanade.SubTCSE.Projeto.Application.csproj", "{0A497912-D9F4-4C92-9E85-222A55A00A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.SubTCSE.Projeto.Domain", "Avanade.SubTCSE.Projeto.Domain\Avanade.SubTCSE.Projeto.Domain.csproj", "{2525692C-EC99-45A2-8B14-0075F9BCCA08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avanade.SubTCSE.Projeto.Domain", "Avanade.SubTCSE.Projeto.Domain\Avanade.SubTCSE.Projeto.Domain.csproj", "{2525692C-EC99-45A2-8B14-0075F9BCCA08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.SubTCSE.Projeto.CrossCutting", "Avanade.SubTCSE.Projeto.CrossCutting\Avanade.SubTCSE.Projeto.CrossCutting.csproj", "{8B649850-69ED-48DB-99FA-5147B8F588F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avanade.SubTCSE.Projeto.CrossCutting", "Avanade.SubTCSE.Projeto.CrossCutting\Avanade.SubTCSE.Projeto.CrossCutting.csproj", "{8B649850-69ED-48DB-99FA-5147B8F588F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.SubTCSE.Projeto.Data", "Avanade.SubTCSE.Projeto.Data\Avanade.SubTCSE.Projeto.Data.csproj", "{1FA536E2-4175-4E2D-AA7E-A83226393040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avanade.SubTCSE.Projeto.Data", "Avanade.SubTCSE.Projeto.Data\Avanade.SubTCSE.Projeto.Data.csproj", "{1FA536E2-4175-4E2D-AA7E-A83226393040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

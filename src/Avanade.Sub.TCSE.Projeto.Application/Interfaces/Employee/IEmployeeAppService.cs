@@ -1,7 +1,7 @@
-﻿using Avanade.Sub.TCSE.Projeto.Application.Dtos.Employee;
+﻿using Avanade.SubTCSE.Projeto.Application.Dtos.Employee;
 using System.Threading.Tasks;
 
-namespace Avanade.Sub.TCSE.Projeto.Application.Interfaces.Employee
+namespace Avanade.SubTCSE.Projeto.Application.Interfaces.Employee
 {
     public interface IEmployeeAppService
     {

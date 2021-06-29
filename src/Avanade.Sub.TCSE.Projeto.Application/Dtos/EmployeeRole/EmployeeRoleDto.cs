@@ -1,4 +1,4 @@
-﻿namespace Avanade.Sub.TCSE.Projeto.Application.Dtos.EmployeeRole
+﻿namespace Avanade.SubTCSE.Projeto.Application.Dtos.EmployeeRole
 {
     public class EmployeeRoleDto
     {
